@@ -1,0 +1,2 @@
+public class RestaurantApplication {
+}
